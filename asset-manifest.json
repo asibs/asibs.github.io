@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.21420c97.css",
-    "main.js": "/static/js/main.72b0c458.js",
+    "main.js": "/static/js/main.f61b0ddb.js",
     "static/js/787.1dfcd57d.chunk.js": "/static/js/787.1dfcd57d.chunk.js",
     "static/media/profile-pic.jpg": "/static/media/profile-pic.86a6263d8780b8f88cbe.jpg",
     "static/media/ocado-technology.png": "/static/media/ocado-technology.29e4f512d62ab411e2be.png",
@@ -28,11 +28,11 @@
     "static/media/ansible.svg": "/static/media/ansible.47b995312c35d40289eef35be5d4e4fa.svg",
     "static/media/nextjs.svg": "/static/media/nextjs.add49cff7f262d5ea5c65cd46698e4da.svg",
     "main.21420c97.css.map": "/static/css/main.21420c97.css.map",
-    "main.72b0c458.js.map": "/static/js/main.72b0c458.js.map",
+    "main.f61b0ddb.js.map": "/static/js/main.f61b0ddb.js.map",
     "787.1dfcd57d.chunk.js.map": "/static/js/787.1dfcd57d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21420c97.css",
-    "static/js/main.72b0c458.js"
+    "static/js/main.f61b0ddb.js"
   ]
 }
