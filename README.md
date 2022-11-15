@@ -14,6 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `npm run deploy`
+
+Builds and deploys the app to [GitHub Pages](https://pages.github.com/) with [gh-pages](https://github.com/tschaub/gh-pages).
+
+You can also give a commit message for committing the built files to the `gh-pages` branch by passing a message parameter, eg:
+
+`npm run deploy -- -m "Deploy React app to GitHub Pages"`
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
