@@ -495,7 +495,7 @@ function App() {
               <div className="mb-1">
                 <h3 className="inline font-medium title-font text-sm md:text-base text-gray-900">
                   <a href="https://www.youtube.com/watch?v=e31UqBT5bKE" target="_blank" rel="noreferrer">
-                    The Hive - Real-time control system for robotic pick & pack warehouse <ArrowTopRightOnSquareIcon className="h-4 w-4 inline text-blue-600" />
+                    The Hive - Real-time control system for robotic pick & pack warehouses <ArrowTopRightOnSquareIcon className="h-4 w-4 inline text-blue-600" />
                   </a>
                 </h3>
               </div>
