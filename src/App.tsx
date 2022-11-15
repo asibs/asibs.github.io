@@ -61,7 +61,9 @@ function App() {
       <div className="container max-w-screen-xl mx-auto flex flex-col gap-12 px-5 py-8 items-center print:max-w-[90%] print:px-0 print:py-0">
 
         <div className="hidden print:block w-full">
-          <p className="text-right underline px-5"><a href="https://asibs.github.io/">View this page online</a></p>
+          <p className="text-right px-5">
+            View this page online at <a href="https://asibs.github.io/" className="underline text-blue-900">asibs.github.io</a>
+          </p>
         </div>
 
         {/***** INTRO / ABOUT SECTION *****/}
