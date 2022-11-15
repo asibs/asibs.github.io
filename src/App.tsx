@@ -117,7 +117,7 @@ function App() {
                   at an early stage start-up with only a couple of devs.
                 </p>
                 <p className="leading-relaxed mb-3">
-                  I am well-versed in automating, optimisating, and scaling up systems & organisations -
+                  I am well-versed in automating, optimising, and scaling up systems & organisations -
                   whether through code, infrastructure, business processes, or a combination. I have years
                   of experience building, enhancing, maintaining and re-platforming large & complex systems.
                 </p>
@@ -545,7 +545,7 @@ function App() {
               </div>
 
               <p className="leading-relaxed pl-2 mb-2">
-                Where possible I seek to open-source utilities which are re-useable and are not commercially
+                Where possible I seek to open-source utilities which are reuseable and are not commercially
                 sensitive or business critical. I also enhance existing open-source projects.
               </p>
               <ul className="leading-relaxed space-y-2 pl-2 mb-2">
@@ -570,7 +570,7 @@ function App() {
                         Infranodus <ArrowTopRightOnSquareIcon className="h-4 w-4 inline text-blue-600" />
                       </a>
                     </div>
-                    I contributed to this open-source Node.js app which can analyse & visualize text as graphs. I added
+                    I contributed to this open-source Node.js app which can analyse & visualise text as graphs. I added
                     features such as improved importing of recent news articles from RSS feeds for analysis, and making
                     it easier to setup & deploy the application.
                   </div>
