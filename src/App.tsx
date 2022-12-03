@@ -21,13 +21,13 @@ import {
   BeakerIcon,
   BugAntIcon,
   BuildingOfficeIcon,
-  CircleStackIcon,
+  // CircleStackIcon,
   CommandLineIcon,
   DevicePhoneMobileIcon,
   EnvelopeIcon,
   HomeIcon,
   PhoneIcon,
-  // ScaleIcon,
+  ScaleIcon,
   UserGroupIcon,
   ViewColumnsIcon,
 } from '@heroicons/react/20/solid';
@@ -61,11 +61,13 @@ function App() {
       {/***** MAIN CONTENT CONTAINER *****/}
       <div className="container max-w-screen-xl mx-auto flex flex-col gap-12 px-5 py-8 items-center print:max-w-[90%] print:px-0 print:py-0">
 
+        {/*
         <div className="hidden print:block w-full">
           <p className="text-right px-5">
             View this page online at <a href="https://asibs.github.io/" className="underline text-blue-900">asibs.github.io</a>
           </p>
         </div>
+        */}
 
         {/***** INTRO / ABOUT SECTION *****/}
         <section className="text-gray-600">
@@ -124,10 +126,12 @@ function App() {
                   whether through code, infrastructure, business processes, or a combination. I have years
                   of experience building, enhancing, maintaining and re-platforming large & complex systems.
                 </p>
+                {/*
                 <p className="leading-relaxed">
                   I am motivated & inspired by making the world a better place through innovation. I would be
                   especially excited to help solve challenges related to climate change and democracy.
                 </p>
+                */}
               </div>
             </div>
           </div>
@@ -452,7 +456,6 @@ function App() {
               </p>
             </TimelineSection>
 
-            {/*
             <TimelineSection
               lineColorClass="from-orange-100"
               iconBorderClass="border-4 border-orange-100"
@@ -486,8 +489,8 @@ function App() {
                 with them to integrate their updated systems with the internal CRM.
               </p>
             </TimelineSection>
-            */}
 
+            {/*
             <TimelineSection
               lineColorClass="from-orange-100"
               iconBorderClass="border-4 border-orange-100"
@@ -525,6 +528,7 @@ function App() {
                 embedded into working practices within the organisation to realise its full potential.
               </p>
             </TimelineSection>
+            */}
 
             <TimelineSection
               lineColorClass="from-sky-100"
