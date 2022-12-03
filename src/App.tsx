@@ -27,6 +27,7 @@ import {
   EnvelopeIcon,
   HomeIcon,
   PhoneIcon,
+  // ScaleIcon,
   UserGroupIcon,
   ViewColumnsIcon,
 } from '@heroicons/react/20/solid';
@@ -328,7 +329,8 @@ function App() {
               <p className="leading-relaxed pl-4">
                 I was responsible for various projects on a tech stack that handles millions of emails and hundreds of
                 thousands of visitors per day. This included taking the lead on complex compliance projects, such as
-                GDPR. I provided line management and coaching to both technical & non-technical staff.
+                GDPR and Age Appropriate Design. I provided line management and coaching to both technical & non-technical
+                staff.
               </p>
             </TimelineSection>
 
@@ -449,6 +451,42 @@ function App() {
                 messages reminding people to vote on election day.
               </p>
             </TimelineSection>
+
+            {/*
+            <TimelineSection
+              lineColorClass="from-orange-100"
+              iconBorderClass="border-4 border-orange-100"
+              icon={<ScaleIcon className="h-6 w-6 text-gray-800" />}
+              className="pb-12"
+            >
+              <div className="mb-1">
+                <h3 className="inline font-medium title-font text-sm md:text-base text-gray-900">
+                  GDPR and Age Appropriate Design - ensuring compliance with legal regulation
+                </h3>
+              </div>
+
+              <div className="mb-2">
+                <SkillBadge className="bg-sky-100 text-gray-700">Ruby on Rails</SkillBadge>
+                <SkillBadge className="bg-sky-100 text-gray-700">Javascript</SkillBadge>
+                <SkillBadge className="bg-violet-100 text-gray-700">PostgreSQL</SkillBadge>
+                <SkillBadge className="bg-rose-100 text-gray-700">AWS</SkillBadge>
+                <SkillBadge className="bg-emerald-100 text-gray-700">Agile</SkillBadge>
+              </div>
+
+              <p className="leading-relaxed pl-2 mb-2">
+                I was responsible for the design & implementation of 38 Degrees' technical solutions to
+                GDPR and Age Appropriate Design.
+              </p>
+              <p className="leading-relaxed pl-2">
+                I researched existing off-the-shelf solutions, considering cost, ease-of-use for end-users and
+                staff, and compliance. I integrated a cookie-consent solution which met all organisations needs.
+                I designed and implemented changes to the way users consented to join 38 Degrees' mailing list,
+                and self-certify themselves as over 16 years old. This included liasing with 3rd party vendors
+                to ensure they were also updating their systems to comply with the regulation, and collaborating
+                with them to integrate their updated systems with the internal CRM.
+              </p>
+            </TimelineSection>
+            */}
 
             <TimelineSection
               lineColorClass="from-orange-100"
